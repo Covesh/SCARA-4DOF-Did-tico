@@ -1,0 +1,15 @@
+﻿Study Static Analysis:2 started: 02/07/2025, 00:57:26
+Number of configurations: 1
+Default mesh: 7266 elements, 13121 nodes
+Study        Worst Jacobian ratio :  2.25  on element 4914 failed. 02/07/2025, 00:57:29
+Total time 0:00:03
+
+Study Static Analysis:2 started: 02/07/2025, 00:57:59
+Number of configurations: 1
+Default mesh: 7266 elements, 13121 nodes
+Solution time 0.6s
+Convergence rate: 11%
+Reached the total number of h refinements 
+Study Static Analysis:2 finished: 02/07/2025, 00:58:00
+Total time 0:00:01
+
